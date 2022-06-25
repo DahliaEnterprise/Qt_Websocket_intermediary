@@ -1,0 +1,10 @@
+This project has been attempted many times.
+It appears qt has no reproduceable "build project/executable" mechanism.
+Not with qmake, Cmake, and trying to build a qt project from g++ bash file will require an immense
+Amount of time including all the folders and the terminal output refuses to save to file therefore I am unable to attempt at building from g++ (manually) as some might call it.
+
+The only solution in regards to delivering to web browsers a video file that requires a bi directional protocol is not websockets and a service delivering data but a GTK application that can be used for Linux developers and the possibilities for export to windows for MingWin users.
+From not own the dahlia video gram will be never using qt for as long as the build mechanism is highly violatile.
+GTK programs will get memory leaks due to lack of documentation in managing memory but at least the dahlia video gram project will not be stuck in "documentation only mode".
+Also GTK programs are great for demonstrating the sole functionality of the intended program.
+Also I think people should stop writing webpages and start writing programs that fit their agenda, everything can't be built upon the idea that the visuals can snap and change an flex based on resizing of windows and or screen size and or screen ratios, they are trying to slow you down and or prevent you from persuing your dreams. Websites shouldn't be the focus of the computer experience, it is this way because web browsers are the standard for preventing downloading of viruses, well I say, only download what people tell you in person to download and or take a risk, or use Linux with limited permissions group/user combination it's not rocket science and it can all be done in the administration gui on every popular Linux flavor.

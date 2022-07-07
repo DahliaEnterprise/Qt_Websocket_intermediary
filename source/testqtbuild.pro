@@ -22,3 +22,4 @@ SOURCES += test.cpp\
 					 
 HEADERS += ./websocket_manager/websocket_manager.h
 					 
+ 
